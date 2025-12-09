@@ -1861,7 +1861,7 @@ textarea {
 
 /* HOVER EFFECT */
 .insta-box:hover img {
-    opacity: 1.4;
+    opacity: 1.4; 
 }
 
 .insta-box:hover .insta-icon {
